@@ -33,6 +33,10 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 img .top {
     position: fixed;
 }
@@ -83,6 +87,7 @@ img .bottom {
 .attribution {
     position: fixed;
     bottom: 0;
+    text-align: center;
 }
 
 .footer {
